@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(230, 220, 207);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+}
+
+li{
+    font-size: 25px;
+    color: brown;
+}
